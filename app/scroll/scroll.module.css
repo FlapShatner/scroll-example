@@ -16,3 +16,9 @@
     font-weight: 600;
     opacity: .7;
 }
+
+@media (max-width: 800px) {
+    .list div {
+        margin-inline: 0;
+    }
+}
