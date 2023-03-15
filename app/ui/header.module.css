@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    font-family: 'Inter';
+}
+
+.links {
+    display: flex;
+    gap: 1rem;
+}
+
+.links a {
+    text-decoration: none;
+    color: midnightblue;
+}

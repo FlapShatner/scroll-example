@@ -1,0 +1,18 @@
+.list div {
+    margin-block: 8rem;
+    margin-inline: 6rem;
+    max-width: 50rem;
+}
+
+.list div:nth-child(even) {
+    margin-left: auto;
+}
+
+.list h2 {
+    margin-block: 2rem;
+}
+
+.bold {
+    font-weight: 600;
+    opacity: .7;
+}
